@@ -17,5 +17,13 @@ Here are some ideas to get you started:
 
  ![counter](https://en7b1jnejorh21j.m.pipedream.net)
  <br>
+ <p>
+ <ul>
+ <li>
+ <a href="https://www.linkedin.com/in/jainish-jain/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
+</ul>
+</p>
 [![Jainish Jain github stats](https://github-readme-stats.vercel.app/api?username=jainish-jain&show_icons=true&hide=[%22contribs%22,%22prs%22])](https://github.com/jainish-jain/github-readme-stats)
