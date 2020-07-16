@@ -21,11 +21,11 @@ Here are some ideas to get you started:
  <ul>
  <li>
  <a href="https://www.linkedin.com/in/jainish-jain/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn
 </a>
 
 </ul>
 </p>
 <center>
-<img src="https://github-readme-stats.vercel.app/api?username=jainish-jain&show_icons=true&hide=[%22contribs%22,%22prs%22]">
+<img src="https://github-readme-stats.vercel.app/api?username=jainish-jain&show_icons=true&hide=[%22contribs%22,%22prs%22]" />
 </center>
