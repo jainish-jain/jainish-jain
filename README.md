@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 
 </ul>
 </p>
-[![Jainish Jain github stats](https://github-readme-stats.vercel.app/api?username=jainish-jain&show_icons=true&hide=[%22contribs%22,%22prs%22])](https://github.com/jainish-jain/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jainish-jain)](https://github.com/jainish-jain/github-readme-stats)
+
