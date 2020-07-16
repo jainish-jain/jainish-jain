@@ -43,6 +43,6 @@ Here are some ideas to get you started:
  </h3>
 <table border=0>
  <tr>
-  <td><img src="https://github.com/jainish-jain/resume/blob/master/Images/CV%20Final-1.jpg" width=50%/></td>
-<td><img src="https://github.com/jainish-jain/resume/blob/master/Images/CV%20Final-2.jpg" width=50%/></td>
+  <td><img src="https://github.com/jainish-jain/resume/blob/master/Images/CV%20Final-1.jpg" width=70%/></td>
+<td><img src="https://github.com/jainish-jain/resume/blob/master/Images/CV%20Final-2.jpg" width=70%/></td>
 </tr>
