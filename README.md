@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 </ul>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=jainish-jain&&show_icons=true"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=jainish-jain&&show_icons=true&hide=["contribs","prs"]"></img>
