@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <center>
 <img src="https://github-readme-stats.vercel.app/api?username=jainish-jain&show_icons=true&hide=[%22contribs%22,%22prs%22]" />
 </center>
-<a href="jainish-jain.github.io/resume" ><h3>Resume</h3></a>
+<a href="https://jainish-jain.github.io/resume" ><h3>Resume</h3></a>
