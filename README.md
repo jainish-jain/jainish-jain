@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 <h3>
 <a href="https://jainish-jain.github.io/resume/" >Resume</a>
  </h3>
+<img src="https://github.com/jainish-jain/resume/blob/master/Images/CV%20Final-1.jpg" />
+<im src="https://github.com/jainish-jain/resume/blob/master/Images/CV%20Final-2.jpg" />
