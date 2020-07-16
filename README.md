@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  <h3>SOCIALS</h3>
  <li>
  <a href="https://www.linkedin.com/in/jainish-jain/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Linkedin
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linkedin
 </a>
 <li>
 <a href="https://www.instagram.com/ll_jainish_ll/">
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <h3><p style="color:black">
  <a href="https://jainish-jain.github.io/resume/" >Resume</a></p>
  </h3>
-<table border=0>
+<table border="0">
  <tr>
   <td><center><img src="https://github.com/jainish-jain/resume/blob/master/Images/CV%20Final-1.jpg" width=80%/></center></td>
 <td><center><img src="https://github.com/jainish-jain/resume/blob/master/Images/CV%20Final-2.jpg" width=80%/></center></td>
