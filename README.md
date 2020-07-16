@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 
 </ul>
 </p>
+<center>
 <img src="https://github-readme-stats.vercel.app/api?username=jainish-jain&show_icons=true&hide=[%22contribs%22,%22prs%22]">
+</center>
