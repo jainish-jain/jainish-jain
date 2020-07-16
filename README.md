@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 
 </ul>
 </p>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jainish-jain)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=jainish-jain&&show_icons=true"></img>
