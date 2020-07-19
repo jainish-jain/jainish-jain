@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  ![counter](https://en7b1jnejorh21j.m.pipedream.net)
  <br>
  <p>
- <ul>
+ <ul style="list-style-type: disc">
  <h3>SOCIALS</h3>
  <li>
  <a href="https://www.linkedin.com/in/jainish-jain/">
