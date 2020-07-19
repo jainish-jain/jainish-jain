@@ -20,19 +20,20 @@ Here are some ideas to get you started:
  <p>
 
  <h3>SOCIALS</h3>
- 
- <a href="https://www.linkedin.com/in/jainish-jain/">
+ <ul>
+ <li><a href="https://www.linkedin.com/in/jainish-jain/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linkedin
 </a>
 <br>
-<a href="https://www.instagram.com/ll_jainish_ll/">
+<li><a href="https://www.instagram.com/ll_jainish_ll/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Instagram
 </a>
 <br>
-<a href="https://www.hackerrank/jainishjain786/">
+<li><a href="https://www.hackerrank/jainishjain786/">
   <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />Hackerrank
 </a>
 <br>
+ </ul>
 </p>
 <center>
 <img src="https://github-readme-stats.vercel.app/api?username=jainish-jain&show_icons=true&hide=[%22contribs%22,%22prs%22]" />
