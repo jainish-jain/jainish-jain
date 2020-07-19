@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/ll_jainish_ll/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Instagram
 </a>
-
 <br><br>
 <a href="https://www.hackerrank/jainishjain786/">
   <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />Hackerrank
