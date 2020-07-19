@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 <h3><p style="color:black">
  <a href="https://jainish-jain.github.io/resume/" >Resume</a></p>
  </h3>
- 
+ <!--
 <table border="0">
  <tr>
   <td><center><img src="https://github.com/jainish-jain/resume/blob/master/Images/CV%20Final-1.jpg" width=80%/></center></td>
 <td><center><img src="https://github.com/jainish-jain/resume/blob/master/Images/CV%20Final-2.jpg" width=80%/></center></td>
 </tr>
-</table>
+</table>-->
