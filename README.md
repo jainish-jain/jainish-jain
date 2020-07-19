@@ -18,22 +18,22 @@ Here are some ideas to get you started:
  ![counter](https://en7b1jnejorh21j.m.pipedream.net)
  <br>
  <p>
- <ul style="list-style-type: disc">
+
  <h3>SOCIALS</h3>
- <li>
+ <br>
  <a href="https://www.linkedin.com/in/jainish-jain/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linkedin
 </a>
-<li>
+<br>
 <a href="https://www.instagram.com/ll_jainish_ll/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Instagram
 </a>
 
-<li>
+<br>
 <a href="https://www.hackerrank/jainishjain786/">
   <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />Hackerrank
 </a>
-</ul>
+
 </p>
 <center>
 <img src="https://github-readme-stats.vercel.app/api?username=jainish-jain&show_icons=true&hide=[%22contribs%22,%22prs%22]" />
